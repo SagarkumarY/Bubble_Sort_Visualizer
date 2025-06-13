@@ -46,5 +46,5 @@ bubble-sort-visualizer/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/bubble-sort-visualizer.git
+git clone https://github.com/SagarkumarY/Bubble_Sort_Visualizer
 
